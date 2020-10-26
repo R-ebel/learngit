@@ -1,0 +1,8 @@
+This is a readme:
+操作与linux的大致相同。
+首先加入仓库：git add xx.xx.
+之后声明：git commit -m "xxxxxx".
+删除的话，git rm xx/xx.
+添加文件vim xx.xx 
+打开文件vi xx.xx
+重命名就是把一个文件重新粘贴到当前目录。相当于crtl +X。  git mv xx.xx//原文件的名称 E:/xx/xx/xx.txt//新文件的地址及名称。 列如：git mv test.txt E:/file/Test.txt. 这样就相当于把test改名为TEst.
