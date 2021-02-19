@@ -1,6 +1,6 @@
 #include "pid.h"
 #include <math.h>
-
+#include<stdio.h>
 #define MAXOUT 1000                 //输出最大值
 
 PID sPID;
